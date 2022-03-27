@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+5c7bf97bacc462fa77238eb10c1565fdb3b67371 refs/remotes/origin/dependabot/npm_and_yarn/karma-6.3.16
+fde63449ed14a15dd5c50fb1888cbcf05e8a0ec0 refs/remotes/origin/dependabot/npm_and_yarn/url-parse-1.5.9
+3ecb3c220965f187832ee8a868f3c5ead29f56b6 refs/remotes/origin/main
+5d0e37e2ee89dae57c16e0762132d0cc6316f5f3 refs/remotes/origin/or2018
+6ba7fb34faafe99a8d94e0d81224a86c18d7f566 refs/remotes/origin/preview
+9fc7b57157010080a2fb5c9ebadb92a3571adc94 refs/tags/dspace-7.0
+01231ef105f49d95dfcc946296bee2c6eab352ea refs/tags/dspace-7.0-beta1
+b7a57035c4734ba6407bba18a24620e130196e04 refs/tags/dspace-7.0-beta2
+b731301b39f0ebf9c8c2a6401702033ccbe0ab31 refs/tags/dspace-7.0-beta3
+d9634a84aef0e9c9bea502d032aaaad7af1101f4 refs/tags/dspace-7.0-beta4
+686a402d40e33d860d77618bf5795b30b2353f23 refs/tags/dspace-7.0-beta5
+6ba7fb34faafe99a8d94e0d81224a86c18d7f566 refs/tags/dspace-7.0-preview-1
+2fe9fbd5845d8e3b53b98d403935e71feca96311 refs/tags/dspace-7.1
+e4f483c308dd319f7486c7fc5f9816f04a8d03a1 refs/tags/dspace-7.2
